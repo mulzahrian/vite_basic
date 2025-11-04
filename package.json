@@ -1,0 +1,23 @@
+{
+  "name": "vite_basic",
+  "version": "1.0.0",
+  "description": "Learn Vite",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulzahrian/vite_basic.git"
+  },
+  "author": "Mulzahrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulzahrian/vite_basic/issues"
+  },
+  "homepage": "https://github.com/mulzahrian/vite_basic#readme",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
